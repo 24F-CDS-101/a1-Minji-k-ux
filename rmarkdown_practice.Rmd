@@ -25,7 +25,9 @@ output:
 urlcolor: blue
 ---
 
-<!-- Write your Markdown below this line -->
+```{r}
+x <- 8
+```
 
 
 
